@@ -2,7 +2,7 @@
 
 Meu nome é Felipe Sena, sou Assistente de TI, estudante de programação :computer: <br>
 
-:point_right: https://felipesena.com.br<br><br>
+:point_right: https://felipesena.com.br :point_left: <br><br>
 
 <a target="_blank" href="#">
   <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />

@@ -1,8 +1,8 @@
-### Olá, bem vindo ao meu perfil <br>
+### Olá, bem vindo ao meu perfil :relaxed: <br>
 
-Meu nome é Felipe Sena, sou Assistente de TI, estudante de programação :computer: <br><br>
+Meu nome é Felipe Sena, sou Assistente de TI, estudante de programação :computer: <br>
 
-https://felipesena.com.br<br><br>
+:point_right: https://felipesena.com.br<br><br>
 
 <a target="_blank" href="#">
   <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -16,10 +16,10 @@ https://felipesena.com.br<br><br>
 <a target="_blank" href="#">
   <img align="left" alt="Devto" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dev-dot-to.svg" />
 </a>
-<a target="_blank" href="mailto:arycleniobarros@gmail.com">
+<a target="_blank" href="mailto:felipesenafsn@gmail.com">
   <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
-<a target="_blank" href="https://fb.com/aryxb">
+<a target="_blank" href="#">
   <img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 <!--

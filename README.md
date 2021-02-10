@@ -1,4 +1,4 @@
-### Olá, bem vindo ao meu perfil :relaxed: <br>
+### Olá, bem-vindo(a) ao meu perfil :relaxed: <br>
 
 Meu nome é Felipe Sena, sou Assistente de TI, estudante de programação :computer: <br>
 
